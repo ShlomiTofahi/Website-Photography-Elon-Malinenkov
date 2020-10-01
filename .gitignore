@@ -10,3 +10,7 @@
 !/js
 /js/*
 !/js/header.js
+
+!/images
+/images/*
+!/images/logo.png
