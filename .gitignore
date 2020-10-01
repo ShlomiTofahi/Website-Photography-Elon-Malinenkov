@@ -1,5 +1,12 @@
 *
 !.gitignore
 !home.html
-!index.php
-!composer.json
+!header.html
+
+!/css
+/css/*
+!/css/header.css
+
+!/js
+/js/*
+!/js/header.js
