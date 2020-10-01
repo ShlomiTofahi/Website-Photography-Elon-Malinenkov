@@ -1,3 +1,5 @@
 *
 !.gitignore
-!index.html
+!home.html
+!index.php
+!composer.json
